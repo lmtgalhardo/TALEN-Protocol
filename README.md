@@ -1,5 +1,6 @@
 # TALEN-Protocol
-Opentrons TALEN protocol 
+Opentrons TALEN protocol:
+  All files from TALEN protocol developed during summer of 2017 for Opentrons, Labworks, Inc.
 
 The full protocol with all the progress I had made is found in the TALENProtocol.ipynb file. 
 
